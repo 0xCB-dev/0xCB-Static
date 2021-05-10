@@ -1,0 +1,9 @@
+[submodule "MX_Alps_Hybrid.pretty"]
+	path = MX_Alps_Hybrid.pretty
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
+[submodule "Type-C.pretty"]
+	path = Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "keyboard_parts.pretty"]
+	path = keyboard_parts.pretty
+	url = https://github.com/colemarkham/keyboard_parts.pretty
