@@ -1,4 +1,4 @@
-19854928963481303
+19893927279448556
 Alps_Only
 ALPS-1.5U
 
@@ -55512,28 +55512,28 @@ L_Toroid Vertical series Radial pin pitch 31.80mm  length 67.6mm width 36.1mm Vi
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
-solder jumper open
+net tie solder jumper bridged
 0
 2
 2
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
-solder jumper open
+net tie solder jumper bridged
 0
 2
 2
 Jumper
 SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 2
 2
 Jumper
 SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 2
 2
@@ -55561,56 +55561,56 @@ solder jumper open
 Jumper
 SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
 Jumper
 SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
 SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-solder jumper open
+net tie solder jumper bridged
 0
 3
 3
@@ -66682,6 +66682,20 @@ VQFN NoLead
 66
 47
 Package_DFN_QFN
+VQFN-48-1EP_6x6mm_P0.4mm_EP4.1x4.1mm
+VQFN, 48 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/48L_VQFN_6x6mm_6LX_C04-00494a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+58
+49
+Package_DFN_QFN
+VQFN-48-1EP_6x6mm_P0.4mm_EP4.1x4.1mm_ThermalVias
+VQFN, 48 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/48L_VQFN_6x6mm_6LX_C04-00494a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+75
+49
+Package_DFN_QFN
 VQFN-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm
 VQFN, 48 Pin (http://www.ti.com/lit/ds/symlink/cc430f5137.pdf#page=128), generated with kicad-footprint-generator ipc_noLead_generator.py
 VQFN NoLead
@@ -66722,6 +66736,20 @@ VQFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/PIC16LF19195-6-7-D
 VQFN NoLead
 0
 100
+65
+Package_DFN_QFN
+VQFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm
+VQFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/64L_QFN_9x9_MR_C04-00149e.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+74
+65
+Package_DFN_QFN
+VQFN-64-1EP_9x9mm_P0.5mm_EP7.15x7.15mm_ThermalVias
+VQFN, 64 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/64L_QFN_9x9_MR_C04-00149e.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+91
 65
 Package_DFN_QFN
 WDFN-6-2EP_4.0x2.6mm_P0.65mm
@@ -69405,6 +69433,13 @@ MQFP QFP
 44
 44
 Package_QFP
+PQFP-32_5x5mm_P0.5mm
+PQFP, 32 Pin (https://www.ti.com/lit/ds/symlink/ads127l01.pdf#page=87), generated with kicad-footprint-generator ipc_gullwing_generator.py
+PQFP QFP
+0
+32
+32
+Package_QFP
 PQFP-44_10x10mm_P0.8mm
 44-Lead Plastic Quad Flatpack - 10x10x2.5mm Body (http://www.onsemi.com/pub/Collateral/122BK.PDF)
 PQFP 0.8
@@ -71496,6 +71531,13 @@ TSSOP28: plastic thin shrink small outline package; 28 leads; body width 4.4 mm;
 SSOP 0.65
 0
 36
+29
+Package_SO
+TSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.85x6.7mm
+TSSOP, 28 Pin (JEDEC MO-153 Var AET Pkg.Code U28E-4 https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+35
 29
 Package_SO
 TSSOP-28_4.4x7.8mm_P0.5mm
@@ -85756,3 +85798,59 @@ varistor SIOV
 0
 2
 2
+static
+LOGO
+
+
+0
+0
+0
+static
+MXOnly-1.25U-NoLED
+
+
+0
+2
+2
+static
+MXOnly-1.75U-NoLED
+
+
+0
+2
+2
+static
+MXOnly-1U-NoLED
+
+
+0
+2
+2
+static
+MXOnly-2.25U-NoLED
+
+
+0
+2
+2
+static
+MXOnly-2.75U-NoLED
+
+
+0
+2
+2
+static
+MXOnly-6.25U-NoLED
+
+
+0
+2
+2
+static
+logo
+
+
+0
+0
+0
