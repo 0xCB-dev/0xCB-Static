@@ -1,5 +1,0 @@
-(sym_lib_table
-  (lib (name "is31fl3731")(type "Legacy")(uri "/home/conor/Sites/0xcb-static/keyboard_parts.pretty/is31fl3731.lib")(options "")(descr ""))
-  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "/home/conor/Sites/0xcb-static/MX_Alps_Hybrid.pretty/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
-  (lib (name "Type-C")(type "Legacy")(uri "/home/conor/Sites/0xcb-static/Type-C.pretty/Type-C.lib")(options "")(descr ""))
-)

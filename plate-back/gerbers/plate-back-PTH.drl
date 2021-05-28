@@ -1,0 +1,20 @@
+M48
+; DRILL file {KiCad (5.99.0-10540-g55c1d814f9)} date Thu May 27 21:19:51 2021
+; FORMAT={-:-/ absolute / inch / decimal}
+; #@! TF.CreationDate,2021-05-27T21:19:51+02:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,(5.99.0-10540-g55c1d814f9)
+; #@! TF.FileFunction,Plated,1,2,PTH
+FMAT,2
+INCH
+; #@! TA.AperFunction,Plated,PTH,ComponentDrill
+T1C0.0984
+%
+G90
+G05
+T1
+X1.411Y-4.7213
+X1.411Y-5.5264
+X10.5685Y-4.7209
+X10.5685Y-5.5264
+T0
+M30

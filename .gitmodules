@@ -7,3 +7,6 @@
 [submodule "keyboard_parts.pretty"]
 	path = keyboard_parts.pretty
 	url = https://github.com/colemarkham/keyboard_parts.pretty
+[submodule "kbd"]
+	path = kbd
+	url = https://github.com/foostan/kbd
