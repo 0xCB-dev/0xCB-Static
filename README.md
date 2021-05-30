@@ -3,7 +3,7 @@
 
 Licence | OSHWA | Tindie
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Conor-Burns/0xcb-static/blob/main/LICENSE.svg) | [![](https://github.com/Conor-Burns/0xcb-1337/blob/main/PCB/rev3.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+![](https://github.com/0xCB-dev/0xcb-static/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev3.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
 #### Flashing
 
@@ -16,11 +16,11 @@ The board should now appear in lsusb (or device manager).
 
 ### PCB:
 KiCad 5.99
-[Schematic](https://github.com/Conor-Burns/0xcb-static/blob/main/PCB/rev1.0/Schematic_Static.pdf)
+[Schematic](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/Schematic_Static.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/Conor-Burns/0xcb-static/blob/main/PCB/rev1.0/top.png)  |  ![](https://github.com/Conor-Burns/0xcb-static/blob/main/PCB/rev1.0/bottom.png)
+![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/top.png)  |  ![](https://github.com/Conor-Burns/0xcb-static/blob/main/PCB/rev1.0/bottom.png)
 
 #### BOM:
 |Qty|Reference(s)|Value                  |Part Nb.              |
