@@ -16,7 +16,7 @@ The board should now appear in lsusb (or device manager).
 
 ### PCB:
 KiCad 5.99
-[Schematic](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/Schematic_Static.pdf)
+[Schematic](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/Schematic-Static.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
