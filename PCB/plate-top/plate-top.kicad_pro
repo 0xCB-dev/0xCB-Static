@@ -65,7 +65,7 @@
         "extra_footprint": "warning",
         "hole_clearance": "error",
         "hole_near_hole": "error",
-        "invalid_outline": "error",
+        "invalid_outline": "ignore",
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
@@ -107,7 +107,8 @@
         "min_via_annular_width": 0.049999999999999996,
         "min_via_diameter": 0.39999999999999997,
         "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0
+        "solder_mask_min_width": 0.0,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [],
       "via_dimensions": [],
@@ -329,7 +330,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "plates.kicad_pro",
+    "filename": "plate-top.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -395,7 +396,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
