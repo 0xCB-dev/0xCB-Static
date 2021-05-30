@@ -20,7 +20,7 @@ KiCad 5.99
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/top.png)  |  ![](https://github.com/Conor-Burns/0xcb-static/blob/main/PCB/rev1.0/bottom.png)
+![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/bottom.png)
 
 #### BOM:
 |Qty|Reference(s)|Value                  |Part Nb.              |
