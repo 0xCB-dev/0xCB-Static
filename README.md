@@ -3,16 +3,20 @@
 
 Licence | OSHWA | Tindie
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-static/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev3.0/OSHWA.svg)](https://certification.oshwa.org/de000113.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+![](https://github.com/0xCB-dev/0xcb-static/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/OSHWA.svg)](https://certification.oshwa.org/de000114.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
 
 #### Flashing
 
 * `qmk clone`
 * `cd qmk_firmware`
-* `export LTO=Y` (if you compile production files)
-* To go to bootloader hold the RESET switch, then hold the BOOT switch, release RESET, release BOOT.
+* `export LTO=Y`
+* To go to bootloader hold the ESC key while plugging in (or RESET switch, then hold the BOOT switch, release RESET, release BOOT).
 The board should now appear in lsusb (or device manager).
 * `make 0xcb/static:via:flash`
+
+### Assembly:
+
+You can use the [humanpnp](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/humanpnp.html) to easily place components.
 
 ### PCB:
 KiCad 5.99

@@ -1,5 +1,5 @@
 (footprint "MXOnly-6.25U-NoLED" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 60B001C8)
+  (tedit 60C3D1BA)
   (attr through_hole board_only exclude_from_bom)
   (fp_text reference "REF**" (at 0 3.175) (layer "Dwgs.User") hide
     (effects (font (size 1 1) (thickness 0.15)))
@@ -28,6 +28,6 @@
   (pad "" np_thru_hole circle locked (at -49.9999 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp c86605d7-690c-4b18-adfa-bfb0833c7363))
   (pad "" np_thru_hole circle locked (at -5.08 0 48.0996) (size 1.75 1.75) (drill 1.75) (layers *.Cu *.Mask) (tstamp ce6724ee-327a-4e39-9938-50cfafb78e97))
   (pad "" np_thru_hole circle locked (at 49.9999 -6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask) (tstamp e407d652-822b-49cc-88a7-a3ba16c381ed))
-  (pad "1" thru_hole circle locked (at -3.81 -2.54) (size 2.25 2.25) (drill 1.47) (layers *.Cu "B.Mask") (tstamp 26e28394-c302-4c65-a219-c07be60a2799))
-  (pad "2" thru_hole circle locked (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu "B.Mask") (tstamp e3deb4be-8f13-43b3-b8b0-8f2cfa3439a4))
+  (pad "1" thru_hole circle locked (at -3.81 -2.54) (size 2.25 2.25) (drill 1.47) (layers *.Cu *.Mask) (tstamp 26e28394-c302-4c65-a219-c07be60a2799))
+  (pad "2" thru_hole circle locked (at 2.54 -5.08) (size 2.25 2.25) (drill 1.47) (layers *.Cu *.Mask) (tstamp e3deb4be-8f13-43b3-b8b0-8f2cfa3439a4))
 )
