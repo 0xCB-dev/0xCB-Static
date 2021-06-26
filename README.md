@@ -16,7 +16,7 @@ The board should now appear in lsusb (or device manager).
 
 ### Assembly:
 
-You can use the [humanpnp](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/humanpnp.html) to easily place components.
+You can use the [humanpnp](https://files.0xcb.dev/0xCB/static/humanpnp.html) to easily place components.
 
 ### PCB:
 KiCad 5.99
