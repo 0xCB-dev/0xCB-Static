@@ -27,21 +27,21 @@ Top | Bottom
 ![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/bottom.png)
 
 #### BOM:
-| References     | Value                   | Quantity |Part Nb.          |
-|----------------|-------------------------|----------|------------------|
-| C3, C4         | 20pF                    | 2        |C415398           |
-| C1, C2         | 0.1uF                   | 2        |C409821           |
-| R1, R2         | 5.1K                    | 2        |C58676            |
-| R3, R4         | 75                      | 2        |C713897           |
-| R5             | 10k                     | 1        |C58673            |
-| R6             | 1.5k                    | 1        |C433494           |
-| D1, ..., D48   | 1N4148                  | 48       |C14516            |
-| D49, D50       | 1N4729                  | 2        |C2532             |
-| U1             | ATmega328-P             | 1        |ATMEGA328P-PU-ND  |
-| Y1             | 16MHz                   | 1        |C16212            |
-| F1             | 500mA                   | 1        |C268799           |
-| SW1, SW2       | RESET, BOOT             | 1        |450-1650-ND       |
-| MX1, ..., MX44 | MX-NoLED                | 43       |Cherry MX switches|
-| OL1            | OLED                    | 1        |SSD1306 128x32    |
-| MX12           | EC11                    | 1        |ec11 encoder      |
-| J1             | USB_C_Receptacle_USB2.0 | 1        |640-USB4085-GF-A  |
+| References     | Value          | Quantity |Part Nb.             |
+|----------------|----------------|----------|---------------------|
+| C3, C4         | 20pF           | 2        |C415398              |
+| C1, C2         | 0.1uF          | 2        |C409821              |
+| R1, R2         | 5.1K           | 2        |C58676               |
+| R3, R4         | 75             | 2        |C713897              |
+| R5             | 10k            | 1        |C58673               |
+| R6             | 1.5k           | 1        |C433494              |
+| D1, ..., D48   | 1N4148         | 48       |C14516               |
+| D49, D50       | 1N4729         | 2        |C2532                |
+| U1             | ATmega328-P    | 1        |ATMEGA328P-PU-ND     |
+| Y1             | 16MHz          | 1        |C16212               |
+| F1             | 500mA          | 1        |C268799              |
+| SW1, SW2       | RESET, BOOT    | 1        |450-1650-ND          |
+| MX1, ..., MX44 | MX-NoLED       | 43       |Cherry MX switches   |
+| OL1            | OLED           | 1        |SSD1306 128x32       |
+| MX12           | EC11           | 1        |PEC11R-4220F-S0024-ND|
+| J1             | USB4085 Type C | 1        |640-USB4085-GF-A     |
