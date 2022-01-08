@@ -27,8 +27,8 @@ Top | Bottom
 :-------------------------:|:-------------------------:
 ![](https://github.com/0xCB-dev/0xcb-static/blob/main/rev1.0/0xcb-static.top.png)  |  ![](https://github.com/0xCB-dev/0xcb-static/blob/main/rev1.0/0xcb-static.bottom.png)
 
-### Case 3D files:
-[STLs](https://github.com/0xCB-dev/0xcb-1337/tree/main/3D-files)
+### 3D files:
+[STLs](https://github.com/0xCB-dev/0xcb-static/tree/main/3D-files)
 
 #### BOM:
 | References     | Value          | Quantity |Part Nb.             |
