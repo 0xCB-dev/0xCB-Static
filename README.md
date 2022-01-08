@@ -1,9 +1,9 @@
 # 0xcb-static
 ## 40% with OLED and Encoder running QMK
 
-Licence | OSHWA | Tindie
-:-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-static/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/OSHWA.svg)](https://certification.oshwa.org/de000114.html) | <a href="https://www.tindie.com/stores/0xcb/?ref=offsite_badges&utm_source=sellers_conorlburns&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
+Licence | OSHWA
+:-------------------------:|:-------------------------:
+![](https://github.com/0xCB-dev/0xcb-static/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/OSHWA.svg)](https://certification.oshwa.org/de000114.html)
 
 #### Flashing
 
@@ -19,12 +19,16 @@ The board should now appear in lsusb (or device manager).
 You can use the [humanpnp](https://files.0xcb.dev/0xCB/static/humanpnp.html) to easily place components.
 
 ### PCB:
-KiCad 5.99
-[Schematic](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/Schematic-Static.pdf)
+KiCad 6 stable
+
+[Schematic](https://github.com/0xCB-dev/0xcb-static/blob/main/rev1.0/0xcb-static.pdf)
 
 Top | Bottom
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/top.png)  |  ![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/bottom.png)
+![](https://github.com/0xCB-dev/0xcb-static/blob/main/rev1.0/0xcb-static.top.png)  |  ![](https://github.com/0xCB-dev/0xcb-static/blob/main/rev1.0/0xcb-static.bottom.png)
+
+### Case 3D files:
+[STLs](https://github.com/0xCB-dev/0xcb-1337/tree/main/3D-files)
 
 #### BOM:
 | References     | Value          | Quantity |Part Nb.             |
