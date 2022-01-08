@@ -3,7 +3,7 @@
 
 Licence | OSHWA
 :-------------------------:|:-------------------------:
-![](https://github.com/0xCB-dev/0xcb-static/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-static/blob/main/PCB/rev1.0/OSHWA.svg)](https://certification.oshwa.org/de000114.html)
+![](https://github.com/0xCB-dev/0xcb-static/blob/main/LICENSE.svg) | [![](https://github.com/0xCB-dev/0xcb-static/blob/main/rev1.0/OSHWA.svg)](https://certification.oshwa.org/de000114.html)
 
 #### Flashing
 
